@@ -16,6 +16,9 @@ Next, Social Diary is now available in Spanish, French, Russian and German! Thes
     - Corrections to the machine translations are welcome
 - Theres now a UI Scale Option inside _Interface_ Settings
 
+- _Your Diary_ plates now mark the herbs you pick and the ore you mine
+- _Your Diary_ plates now mark the fish you catch
+
 ## [3.0.2]
 
 This Updates brings small but important UX fixes. Especially the red ink spills that mark your combat zones in _Your Diary_ are now more clearly computed and displayed.
